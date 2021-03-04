@@ -14,4 +14,8 @@ Create design for the Home page for your partner and develop your own page based
   * Learn how to use CSS Framework
   * Learn to collaborate on GitHub
 
+## Languages:
+* HTML
+* CSS
+* 
 Designer for this page is [Zehra Yelkenci](https://github.com/zehrayelkenci).
